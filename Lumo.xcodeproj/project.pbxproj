@@ -1,0 +1,185 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D20000000000000000000001 /* MarkdownDocumentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D20000000000000000000002 /* MarkdownDocumentView.swift */; };
+		D10000000000000000000001 /* AccessibilityController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D10000000000000000000002 /* AccessibilityController.swift */; };
+		B40000000000000000000001 /* LumoVideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40000000000000000000002 /* LumoVideoView.swift */; };
+		B40000000000000000000003 /* Lumo_Idle.mov in Resources */ = {isa = PBXBuildFile; fileRef = B40000000000000000000004 /* Lumo_Idle.mov */; };
+		B50000000000000000000001 /* Lumo_Thinking.mov in Resources */ = {isa = PBXBuildFile; fileRef = B60000000000000000000001 /* Lumo_Thinking.mov */; };
+		B50000000000000000000002 /* Lumo_Talking.mov in Resources */ = {isa = PBXBuildFile; fileRef = B60000000000000000000002 /* Lumo_Talking.mov */; };
+		B50000000000000000000003 /* Lumo_Working.mov in Resources */ = {isa = PBXBuildFile; fileRef = B60000000000000000000003 /* Lumo_Working.mov */; };
+		B50000000000000000000004 /* Lumo_Happy.mov in Resources */ = {isa = PBXBuildFile; fileRef = B60000000000000000000004 /* Lumo_Happy.mov */; };
+		B50000000000000000000005 /* Lumo_Permission.mov in Resources */ = {isa = PBXBuildFile; fileRef = B60000000000000000000005 /* Lumo_Permission.mov */; };
+		B50000000000000000000006 /* Lumo_Frustrated.mov in Resources */ = {isa = PBXBuildFile; fileRef = B60000000000000000000006 /* Lumo_Frustrated.mov */; };
+		B50000000000000000000007 /* Lumo_Sleep.mov in Resources */ = {isa = PBXBuildFile; fileRef = B60000000000000000000007 /* Lumo_Sleep.mov */; };
+		B50000000000000000000008 /* Lumo_WakeUp.mov in Resources */ = {isa = PBXBuildFile; fileRef = B60000000000000000000008 /* Lumo_WakeUp.mov */; };
+		A10000000000000000000001 /* EmotionStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000002 /* EmotionStore.swift */; };
+		81865D892FFA5F1486D50C6D /* SystemToolRegistry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA653AC48545188A4BB71D4 /* SystemToolRegistry.swift */; };
+		3197FBE068C75D55BC1DB08B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68C502817B25005BC9FED1C /* AppDelegate.swift */; };
+		FFD553E16B1C5618BADCA7E8 /* LumoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F82238CA503F59B6BAC7C827 /* LumoApp.swift */; };
+		7E2B409DAE395018B73167D5 /* LumoStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812065D51E355746B5B23DEC /* LumoStore.swift */; };
+		CFCAE10207495ED4B32DBF11 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C2CB06566F508FABF3F564 /* Models.swift */; };
+		955D55EEE4095709A394DD82 /* ActionLogStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDA90A7D14750AF9126BDDF /* ActionLogStore.swift */; };
+		676136ED213C521EA0A826DC /* AutoLaunchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 397903AF2C9D5CB789AF84FC /* AutoLaunchService.swift */; };
+		84EA3B7FAEE45452A6C607AA /* ClaudeService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791B00F38AC950A6A5F0BEC6 /* ClaudeService.swift */; };
+		AA14B0010000000000000001 /* GeminiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA14B0020000000000000002 /* GeminiService.swift */; };
+		8624E56B38705D18ACDD6370 /* EmotionEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 362010EA6D8359A6AF2EDD84 /* EmotionEngine.swift */; };
+		EDE649B1BEA9537FB983E682 /* HistoryStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1360517C7AA15A0F89057BCA /* HistoryStore.swift */; };
+		4470B2E17C3050558500BB3D /* KeychainService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D15BDA6873F2531D8E74A259 /* KeychainService.swift */; };
+		6EC6E2190E37564DBE3B456A /* CommandPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D14671613015DFEAE3C372F /* CommandPanel.swift */; };
+		3DBC6E91810A5574A722DDDC /* FloatingLumoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87C378E06F23563AAD17DF50 /* FloatingLumoController.swift */; };
+		E820E068A6E756949787BF75 /* FloatingRootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB5FC8F5A395E0A8BE80E8F /* FloatingRootView.swift */; };
+		895A6DC77B8754BDB566B26A /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC5467847D1350E3AF3F13FC /* SettingsView.swift */; };
+		C70000000000000000000001 /* AppSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70000000000000000000002 /* AppSettings.swift */; };
+		E10000000000000000000001 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E10000000000000000000002 /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D20000000000000000000002 /* MarkdownDocumentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/UI/MarkdownDocumentView.swift"; sourceTree = SOURCE_ROOT; };
+		D10000000000000000000002 /* AccessibilityController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Agent/AccessibilityController.swift"; sourceTree = SOURCE_ROOT; };
+		B40000000000000000000002 /* LumoVideoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/UI/LumoVideoView.swift"; sourceTree = SOURCE_ROOT; };
+		B40000000000000000000004 /* Lumo_Idle.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Lumo/Resources/Lumo_Idle.mov"; sourceTree = SOURCE_ROOT; };
+		B60000000000000000000001 /* Lumo_Thinking.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Lumo/Resources/Lumo_Thinking.mov"; sourceTree = SOURCE_ROOT; };
+		B60000000000000000000002 /* Lumo_Talking.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Lumo/Resources/Lumo_Talking.mov"; sourceTree = SOURCE_ROOT; };
+		B60000000000000000000003 /* Lumo_Working.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Lumo/Resources/Lumo_Working.mov"; sourceTree = SOURCE_ROOT; };
+		B60000000000000000000004 /* Lumo_Happy.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Lumo/Resources/Lumo_Happy.mov"; sourceTree = SOURCE_ROOT; };
+		B60000000000000000000005 /* Lumo_Permission.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Lumo/Resources/Lumo_Permission.mov"; sourceTree = SOURCE_ROOT; };
+		B60000000000000000000006 /* Lumo_Frustrated.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Lumo/Resources/Lumo_Frustrated.mov"; sourceTree = SOURCE_ROOT; };
+		B60000000000000000000007 /* Lumo_Sleep.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Lumo/Resources/Lumo_Sleep.mov"; sourceTree = SOURCE_ROOT; };
+		B60000000000000000000008 /* Lumo_WakeUp.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Lumo/Resources/Lumo_WakeUp.mov"; sourceTree = SOURCE_ROOT; };
+		A10000000000000000000002 /* EmotionStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Services/EmotionStore.swift"; sourceTree = SOURCE_ROOT; };
+		6AA653AC48545188A4BB71D4 /* SystemToolRegistry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Agent/SystemToolRegistry.swift"; sourceTree = SOURCE_ROOT; };
+		B68C502817B25005BC9FED1C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/App/AppDelegate.swift"; sourceTree = SOURCE_ROOT; };
+		F82238CA503F59B6BAC7C827 /* LumoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/App/LumoApp.swift"; sourceTree = SOURCE_ROOT; };
+		812065D51E355746B5B23DEC /* LumoStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Models/LumoStore.swift"; sourceTree = SOURCE_ROOT; };
+		C8C2CB06566F508FABF3F564 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Models/Models.swift"; sourceTree = SOURCE_ROOT; };
+		BEDA90A7D14750AF9126BDDF /* ActionLogStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Services/ActionLogStore.swift"; sourceTree = SOURCE_ROOT; };
+		397903AF2C9D5CB789AF84FC /* AutoLaunchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Services/AutoLaunchService.swift"; sourceTree = SOURCE_ROOT; };
+		791B00F38AC950A6A5F0BEC6 /* ClaudeService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Services/ClaudeService.swift"; sourceTree = SOURCE_ROOT; };
+		AA14B0020000000000000002 /* GeminiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Services/GeminiService.swift"; sourceTree = SOURCE_ROOT; };
+		362010EA6D8359A6AF2EDD84 /* EmotionEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Services/EmotionEngine.swift"; sourceTree = SOURCE_ROOT; };
+		1360517C7AA15A0F89057BCA /* HistoryStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Services/HistoryStore.swift"; sourceTree = SOURCE_ROOT; };
+		D15BDA6873F2531D8E74A259 /* KeychainService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Services/KeychainService.swift"; sourceTree = SOURCE_ROOT; };
+		3D14671613015DFEAE3C372F /* CommandPanel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/UI/CommandPanel.swift"; sourceTree = SOURCE_ROOT; };
+		87C378E06F23563AAD17DF50 /* FloatingLumoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/UI/FloatingLumoController.swift"; sourceTree = SOURCE_ROOT; };
+		AAB5FC8F5A395E0A8BE80E8F /* FloatingRootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/UI/FloatingRootView.swift"; sourceTree = SOURCE_ROOT; };
+		DC5467847D1350E3AF3F13FC /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/UI/SettingsView.swift"; sourceTree = SOURCE_ROOT; };
+		9E871DE359D151C69619CA06 /* Lumo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lumo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C70000000000000000000002 /* AppSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lumo/Services/AppSettings.swift"; sourceTree = SOURCE_ROOT; };
+		E10000000000000000000002 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Lumo/Assets.xcassets"; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B162EB10A92458F69435A424 = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7727BBACFC2A566B98B28196 = {isa = PBXGroup; children = (
+				6AA653AC48545188A4BB71D4 /* SystemToolRegistry.swift */,
+				D10000000000000000000002 /* AccessibilityController.swift */,
+				B68C502817B25005BC9FED1C /* AppDelegate.swift */,
+				F82238CA503F59B6BAC7C827 /* LumoApp.swift */,
+				812065D51E355746B5B23DEC /* LumoStore.swift */,
+				C8C2CB06566F508FABF3F564 /* Models.swift */,
+				BEDA90A7D14750AF9126BDDF /* ActionLogStore.swift */,
+				397903AF2C9D5CB789AF84FC /* AutoLaunchService.swift */,
+				C70000000000000000000002 /* AppSettings.swift */,
+				791B00F38AC950A6A5F0BEC6 /* ClaudeService.swift */,
+				AA14B0020000000000000002 /* GeminiService.swift */,
+				362010EA6D8359A6AF2EDD84 /* EmotionEngine.swift */,
+				A10000000000000000000002 /* EmotionStore.swift */,
+				1360517C7AA15A0F89057BCA /* HistoryStore.swift */,
+				D15BDA6873F2531D8E74A259 /* KeychainService.swift */,
+				3D14671613015DFEAE3C372F /* CommandPanel.swift */,
+				D20000000000000000000002 /* MarkdownDocumentView.swift */,
+				87C378E06F23563AAD17DF50 /* FloatingLumoController.swift */,
+				AAB5FC8F5A395E0A8BE80E8F /* FloatingRootView.swift */,
+				B40000000000000000000002 /* LumoVideoView.swift */,
+				B40000000000000000000004 /* Lumo_Idle.mov */,
+				B60000000000000000000001 /* Lumo_Thinking.mov */,
+				B60000000000000000000002 /* Lumo_Talking.mov */,
+				B60000000000000000000003 /* Lumo_Working.mov */,
+				B60000000000000000000004 /* Lumo_Happy.mov */,
+				B60000000000000000000005 /* Lumo_Permission.mov */,
+				B60000000000000000000006 /* Lumo_Frustrated.mov */,
+				B60000000000000000000007 /* Lumo_Sleep.mov */,
+				B60000000000000000000008 /* Lumo_WakeUp.mov */,
+				E10000000000000000000002 /* Assets.xcassets */,
+				DC5467847D1350E3AF3F13FC /* SettingsView.swift */,
+				FDB96100F543531398DAE069 /* Products */,
+			); sourceTree = "<group>"; };
+		FDB96100F543531398DAE069 /* Products */ = {isa = PBXGroup; children = (9E871DE359D151C69619CA06 /* Lumo.app */,); name = Products; sourceTree = "<group>"; };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F4CE289E12215AE7B0E326C7 /* Lumo */ = {isa = PBXNativeTarget; buildConfigurationList = B3F2AA6FBAB155FFAC94D7FB; buildPhases = (705A460284BC5C909423EC47,B162EB10A92458F69435A424,857898A11FE55ED2AA6308D1,); buildRules = (); dependencies = (); name = Lumo; productName = Lumo; productReference = 9E871DE359D151C69619CA06 /* Lumo.app */; productType = "com.apple.product-type.application"; };
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D2C15A7E3C5C5AA7A0B56E99 /* Project object */ = {isa = PBXProject; attributes = {BuildIndependentTargetsInParallel = 1; LastSwiftUpdateCheck = 1600; LastUpgradeCheck = 1600; TargetAttributes = {F4CE289E12215AE7B0E326C7 = {CreatedOnToolsVersion = 16.0; }; }; }; buildConfigurationList = 3FD0102F07A157519FF76F1B; compatibilityVersion = "Xcode 14.0"; developmentRegion = en; hasScannedForEncodings = 0; knownRegions = (en, Base); mainGroup = 7727BBACFC2A566B98B28196; productRefGroup = FDB96100F543531398DAE069; projectDirPath = ""; projectRoot = ""; targets = (F4CE289E12215AE7B0E326C7 /* Lumo */,); };
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		857898A11FE55ED2AA6308D1 = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (
+				B40000000000000000000003 /* Lumo_Idle.mov in Resources */,
+				B50000000000000000000001 /* Lumo_Thinking.mov in Resources */,
+				B50000000000000000000002 /* Lumo_Talking.mov in Resources */,
+				B50000000000000000000003 /* Lumo_Working.mov in Resources */,
+				B50000000000000000000004 /* Lumo_Happy.mov in Resources */,
+				B50000000000000000000005 /* Lumo_Permission.mov in Resources */,
+				B50000000000000000000006 /* Lumo_Frustrated.mov in Resources */,
+				B50000000000000000000007 /* Lumo_Sleep.mov in Resources */,
+				B50000000000000000000008 /* Lumo_WakeUp.mov in Resources */,
+				E10000000000000000000001 /* Assets.xcassets in Resources */,
+			); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		705A460284BC5C909423EC47 = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (
+				81865D892FFA5F1486D50C6D /* SystemToolRegistry.swift in Sources */,
+				D10000000000000000000001 /* AccessibilityController.swift in Sources */,
+				3197FBE068C75D55BC1DB08B /* AppDelegate.swift in Sources */,
+				FFD553E16B1C5618BADCA7E8 /* LumoApp.swift in Sources */,
+				7E2B409DAE395018B73167D5 /* LumoStore.swift in Sources */,
+				CFCAE10207495ED4B32DBF11 /* Models.swift in Sources */,
+				955D55EEE4095709A394DD82 /* ActionLogStore.swift in Sources */,
+				676136ED213C521EA0A826DC /* AutoLaunchService.swift in Sources */,
+				C70000000000000000000001 /* AppSettings.swift in Sources */,
+				84EA3B7FAEE45452A6C607AA /* ClaudeService.swift in Sources */,
+				AA14B0010000000000000001 /* GeminiService.swift in Sources */,
+				8624E56B38705D18ACDD6370 /* EmotionEngine.swift in Sources */,
+				A10000000000000000000001 /* EmotionStore.swift in Sources */,
+				EDE649B1BEA9537FB983E682 /* HistoryStore.swift in Sources */,
+				4470B2E17C3050558500BB3D /* KeychainService.swift in Sources */,
+				6EC6E2190E37564DBE3B456A /* CommandPanel.swift in Sources */,
+				D20000000000000000000001 /* MarkdownDocumentView.swift in Sources */,
+				3DBC6E91810A5574A722DDDC /* FloatingLumoController.swift in Sources */,
+				E820E068A6E756949787BF75 /* FloatingRootView.swift in Sources */,
+				B40000000000000000000001 /* LumoVideoView.swift in Sources */,
+				895A6DC77B8754BDB566B26A /* SettingsView.swift in Sources */,
+			); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A8CB1B9FD67B5A85A2B0F850 = {isa = XCBuildConfiguration; buildSettings = {
+				USE_HEADERMAP = NO;MACOSX_DEPLOYMENT_TARGET = 14.0; SDKROOT = macosx; SWIFT_VERSION = 5.0; }; name = Debug; };
+		1F8F7E749B3F5E1BA9596EA3 = {isa = XCBuildConfiguration; buildSettings = {
+				USE_HEADERMAP = NO;MACOSX_DEPLOYMENT_TARGET = 14.0; SDKROOT = macosx; SWIFT_VERSION = 5.0; }; name = Release; };
+		AA82B0EBE6C454ACB601782D = {isa = XCBuildConfiguration; buildSettings = {
+				USE_HEADERMAP = NO;CODE_SIGN_STYLE = Automatic; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_LSUIElement = YES; INFOPLIST_KEY_NSAppleEventsUsageDescription = "Lumo utilise Apple Events uniquement lorsque vous lui demandez de contrôler une application."; INFOPLIST_KEY_NSMicrophoneUsageDescription = "Lumo pourra utiliser le microphone lorsque le mode vocal sera activé."; ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; PRODUCT_BUNDLE_IDENTIFIER = com.synapsonic.lumo; PRODUCT_NAME = Lumo; SWIFT_VERSION = 5.0; }; name = Debug; };
+		6503079D30055BC38B1C7683 = {isa = XCBuildConfiguration; buildSettings = {
+				USE_HEADERMAP = NO;CODE_SIGN_STYLE = Automatic; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_LSUIElement = YES; INFOPLIST_KEY_NSAppleEventsUsageDescription = "Lumo utilise Apple Events uniquement lorsque vous lui demandez de contrôler une application."; INFOPLIST_KEY_NSMicrophoneUsageDescription = "Lumo pourra utiliser le microphone lorsque le mode vocal sera activé."; ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; PRODUCT_BUNDLE_IDENTIFIER = com.synapsonic.lumo; PRODUCT_NAME = Lumo; SWIFT_VERSION = 5.0; }; name = Release; };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3FD0102F07A157519FF76F1B = {isa = XCConfigurationList; buildConfigurations = (A8CB1B9FD67B5A85A2B0F850,1F8F7E749B3F5E1BA9596EA3,); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		B3F2AA6FBAB155FFAC94D7FB = {isa = XCConfigurationList; buildConfigurations = (AA82B0EBE6C454ACB601782D,6503079D30055BC38B1C7683,); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+/* End XCConfigurationList section */
+	};
+	rootObject = D2C15A7E3C5C5AA7A0B56E99 /* Project object */;
+}

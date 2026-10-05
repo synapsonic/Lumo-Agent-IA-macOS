@@ -1,0 +1,229 @@
+{
+  "" : {
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Lumo-primary.dia",
+    "emit-module-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Lumo-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Lumo-primary-emit-module.dia",
+    "pch" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Lumo-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Lumo-primary.swiftdeps"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Agent/AccessibilityController.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AccessibilityController.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AccessibilityController.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AccessibilityController.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AccessibilityController.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AccessibilityController.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AccessibilityController.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AccessibilityController.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AccessibilityController~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Agent/SystemToolRegistry.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SystemToolRegistry.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SystemToolRegistry.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SystemToolRegistry.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SystemToolRegistry.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SystemToolRegistry.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SystemToolRegistry.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SystemToolRegistry.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SystemToolRegistry~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/App/AppDelegate.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/App/LumoApp.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoApp.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoApp.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoApp.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoApp.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoApp.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoApp.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoApp.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoApp~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Models/LumoStore.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoStore.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoStore.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoStore.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoStore.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoStore.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoStore.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoStore.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoStore~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Models/Models.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Services/ActionLogStore.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ActionLogStore.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ActionLogStore.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ActionLogStore.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ActionLogStore.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ActionLogStore.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ActionLogStore.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ActionLogStore.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ActionLogStore~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Services/AppSettings.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppSettings.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppSettings.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppSettings.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppSettings.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppSettings.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppSettings.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppSettings.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AppSettings~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Services/AutoLaunchService.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AutoLaunchService.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AutoLaunchService.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AutoLaunchService.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AutoLaunchService.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AutoLaunchService.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AutoLaunchService.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AutoLaunchService.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/AutoLaunchService~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Services/ClaudeService.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ClaudeService.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ClaudeService.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ClaudeService.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ClaudeService.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ClaudeService.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ClaudeService.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ClaudeService.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/ClaudeService~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Services/EmotionEngine.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionEngine.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionEngine.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionEngine.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionEngine.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionEngine.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionEngine.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionEngine.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionEngine~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Services/EmotionStore.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionStore.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionStore.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionStore.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionStore.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionStore.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionStore.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionStore.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/EmotionStore~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Services/GeminiService.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeminiService.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeminiService.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeminiService.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeminiService.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeminiService.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeminiService.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeminiService.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeminiService~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Services/HistoryStore.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/HistoryStore.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/HistoryStore.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/HistoryStore.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/HistoryStore.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/HistoryStore.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/HistoryStore.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/HistoryStore.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/HistoryStore~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/Services/KeychainService.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/KeychainService.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/KeychainService.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/KeychainService.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/KeychainService.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/KeychainService.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/KeychainService.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/KeychainService.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/KeychainService~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/UI/CommandPanel.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/CommandPanel.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/CommandPanel.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/CommandPanel.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/CommandPanel.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/CommandPanel.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/CommandPanel.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/CommandPanel.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/CommandPanel~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/UI/FloatingLumoController.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingLumoController.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingLumoController.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingLumoController.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingLumoController.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingLumoController.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingLumoController.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingLumoController.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingLumoController~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/UI/FloatingRootView.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingRootView.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingRootView.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingRootView.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingRootView.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingRootView.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingRootView.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingRootView.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/FloatingRootView~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/UI/LumoVideoView.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoVideoView.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoVideoView.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoVideoView.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoVideoView.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoVideoView.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoVideoView.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoVideoView.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/LumoVideoView~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/UI/MarkdownDocumentView.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/MarkdownDocumentView.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/MarkdownDocumentView.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/MarkdownDocumentView.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/MarkdownDocumentView.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/MarkdownDocumentView.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/MarkdownDocumentView.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/MarkdownDocumentView.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/MarkdownDocumentView~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/Lumo/UI/SettingsView.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/samuelclauzon/Downloads/Lumo-macOS-v0.16-Deterministic-Executor/build-installer/DerivedData/Build/Intermediates.noindex/Lumo.build/Release/Lumo.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
